@@ -345,7 +345,7 @@
                 <div class="single-service">
                     <i class="ti-rocket"></i>
                     <h4>Free shiping</h4>
-                    <p>Orders over $100</p>
+                    <p>Orders over BDT 10,000</p>
                 </div>
                 <!-- End Single Service -->
             </div>
